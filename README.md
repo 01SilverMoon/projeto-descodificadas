@@ -1,2 +1,2 @@
 # projeto-descodificadas
- Repositório para a atividade do site Armazém 11 Horas.
+ Armazém 11 horas.
