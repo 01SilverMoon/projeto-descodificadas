@@ -1,2 +1,2 @@
 # projeto-descodificadas
- Repositório para as atividades do Projeto Descodificadas.
+ Repositório para a atividade do site Armazém 11 Horas.
