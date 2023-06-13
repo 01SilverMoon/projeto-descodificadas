@@ -1,0 +1,210 @@
+body { 
+    background-image: url(Imagem/Logo.a11.jpg); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;    
+    background-attachment: fixed;
+    }
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(180, 163, 197, 0.31);
+    margin-left: 15px;
+    margin-right: 31px;
+    border-style: solid;
+    border-color: blueviolet;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+    font-size: 18px;
+    }
+
+li {
+    display: inline-block;
+    padding: 15px 15px; 
+    }
+
+li a:hover {
+    background-color: rgba(180, 163, 197, 0.31);
+    color: rgb(250, 245, 254);
+    }
+
+iframe {
+    position: relative;
+    }
+
+    #video {
+        width: 30%;
+        margin-top: 50px;
+        margin-left: 15px;
+        padding: 30px 515px 30px 515px;
+        background-color: rgba(180, 163, 197, 0.31);
+        }
+div {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 15px;    
+    }
+
+    #pagInicial {
+        background-image: url(Imagem/Onze\ Horas.png);
+        background-position: justify;
+        background-size: cover;
+        color: rgb(250, 245, 254);
+        padding: 50px;
+        margin-top: 90px;
+        margin-left: 15px;
+        margin-right: 15px;
+        }
+
+    #form {
+        margin-top: 100px;
+        margin-bottom: 20px;
+        }
+
+    #visitar {
+        margin-top: 50px;
+        margin-left: 15px;
+        margin-bottom: 20px;
+        }
+
+    #mapa {
+       padding: 30px 50px;
+       background-color: rgba(180, 163, 197, 0.31);
+       width: 30%;
+       margin-left: 15px;
+        }
+
+    #div1e2 {
+        margin-top: 15px;
+        }
+
+section {
+    border-radius: 5px;
+    background-color: #f2f2f285;
+    padding: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blueviolet;
+    }
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+
+    #submit {
+        width: 100%;
+        background-color: blueviolet;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        }
+
+    #submit:hover{
+        background-color: rgb(74, 7, 136);
+        }
+
+h1 {
+    color: blueviolet;
+    position: relative;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 95px;
+    margin-left: 15px;
+    margin-right: 15px; 
+    }
+
+h2 {
+    color: blueviolet;
+    position: relative;
+    text-align: center;
+    border-style: solid;
+    border-color: blueviolet;
+    background-color: rgba(180, 163, 197, 0.31);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    }
+
+p {
+    position: absolute;
+    color: blueviolet;
+    background-color: rgba(245, 245, 245, 0.322);
+    padding: 8px;
+    }
+
+    #Onze-horas {        
+        margin-right: 35px;
+        margin-top: 20px;        
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        left: 350px;
+        }
+
+    #manacá {
+        margin-right: 35px;
+        margin-top: 20px;        
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        left: 350px;
+        }
+
+    #ipê {
+        margin-right: 35px;
+        margin-top: 20px;        
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        font-weight: bold; 
+        left: 350px;
+        }
+
+    #flor-de-maio {
+        margin-right: 35px;
+        margin-bottom: 20px;        
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        left: 350px;      
+        }
+    
+img {
+    margin-left: 15px;
+    }
+
+footer {
+    color: blueviolet;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding-right: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    }
